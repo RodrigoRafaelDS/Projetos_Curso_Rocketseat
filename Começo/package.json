@@ -1,0 +1,19 @@
+{
+  "name": "teste00726",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "00756"
+  ],
+  "author": "Rodrigo Rafael de Sousa 1999",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "cfonts": "^2.9.1"
+    
+  }
+}
